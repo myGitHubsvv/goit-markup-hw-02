@@ -15,9 +15,9 @@ a {
     text-decoration: none;
 }
 
-/* .header-nav {
+.logo {
     font-weight: 700;
-} */
+}
 
 .header-logo {
     font-family: "Raleway", sans-serif;
@@ -32,10 +32,10 @@ a {
     color: #2e2f42;
 }
 
-/* .nav-list {
+.nav-list {
     font-weight: 500;
     line-height: 1.5;
-} */
+}
 
 .nav-link {
     font-weight: 500;
